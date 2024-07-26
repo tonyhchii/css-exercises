@@ -1,0 +1,19 @@
+.oddNum {
+    background-color: pink;
+    font-family: "Verdana", "DeJavu Sans", serif;
+}
+
+#numTwo {
+    color: blue;
+    font-size: 36px;
+}
+
+#numThree {
+    font-size: 24px;
+}
+
+#numFour {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: 700;
+}
